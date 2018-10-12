@@ -1,0 +1,23 @@
+
+body {
+    background-color: #343a40;
+}
+
+.footer-text {
+    font-size: 12px;
+}
+
+.footer-text a {
+    font-size: 12px;
+    color: rgba(225, 225, 225, .5);
+}
+
+.footer-text a:hover {
+    font-size: 12px;
+    color: rgba(225, 225, 225, .75);
+    text-decoration: none;
+}
+
+.body-card-text {
+    font-size: 13px;
+}
